@@ -1,0 +1,16 @@
+Trabalho Prático - Padrão de Projeto: Strategy
+
+Aluno: João Victor
+Curso: Análise e Desenvolvimento de Sistemas
+Disciplina: Programação Orientada a Objetos
+
+Descrição:
+Este projeto demonstra o uso do padrão de projeto STRATEGY com um exemplo de calculadora de descontos. 
+Três estratégias de desconto são aplicadas: cliente comum, VIP e promocional.
+
+Pastas:
+- codigo/: contém todos os arquivos Java do projeto.
+- uml/: contém o diagrama UML do projeto.
+- documentacao/: PDF com explicação do padrão, descrição da implementação e código comentado.
+
+Todos os arquivos foram testados no Visual Studio Code com compilador Java instalado.
